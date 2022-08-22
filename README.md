@@ -1,6 +1,6 @@
 # Mason Zarns
 - [Linkedin.com  👀](https://www.linkedin.com/in/mason-zarns/)
-> "Never let the magic smoke out of the CPU. Once it escapes, it's too late."
+> "Never let the magic smoke out of the CPU. Once it escapes, it's really hard to get back in."
 
 > "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
 
