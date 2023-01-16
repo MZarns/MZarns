@@ -10,8 +10,9 @@
         "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
 </blockquote> </br>
 
-<h2 align="left">Familiar Tools:</h2>
+<h2 align="center">Familiar Tools:</h2>
 
+<p align="center">
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
@@ -22,7 +23,9 @@
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://ocaml.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="ocaml" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+</p>
 
+<p align="center">
 <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
@@ -33,7 +36,23 @@
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40"/> </a>
 <a href="https://www.apple.com/macos/ventura/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
+</br>
 
-<h2 align="left">Wilbur</h2>
+<h2 align="center">
+<a href="https://github.com/zarns/gesture-recognition">
+Gesture Recognition Project Demo</h2>
+</a>
+</h2>
 
-<img src="images/wilbur_yawn.jpg" alt="yawning" width="215"/> <img src="images/wilbur_sweater.jpg" alt="sweater" width="215"/>
+<p align="center">
+<a href="https://github.com/zarns/gesture-recognition" target="_blank"> <img src="https://raw.githubusercontent.com/zarns/gesture-recognition/main/demo/demo.gif" alt="gesture-recognition-demo"/> </a>
+</p>
+</br>
+
+<h2 align="center">My Buddy Wilbur</h2>
+
+<p align="center">
+<img src="images/wilbur_yawn.jpg" alt="yawning" width="240"/> 
+<img src="images/wilbur_sweater.jpg" alt="sweater" width="240"/>
+</p>
